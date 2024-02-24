@@ -1,4 +1,4 @@
-console.log("agenda.js LOADED TEST");
+console.log("agenda.js LOADED");
 
 class Agenda {
 
